@@ -11,8 +11,11 @@ Motivation Widget is a desktop application built using PyQt5 that displays a mot
 
 ## Screenshots
 
-![Motivation Widget Screenshot](./screenshots/Motivation 1.png)
-![Motivation Widget Screenshot](./screenshots/Motivation 2.png)
+## Screenshots
+
+![Motivation Widget Screenshot 1](./screenshots/Motivation 1.png)
+![Motivation Widget Screenshot 2](./screenshots/Motivation 2.png)
+
 
 ## Prerequisites
 
