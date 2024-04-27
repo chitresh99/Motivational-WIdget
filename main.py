@@ -19,7 +19,7 @@ class MotivationalPuppet(QWidget):
         self.image_paths = [os.path.join(self.image_dir, name) for name in self.image_names]
         self.current_image_index = 0
 
-        # Add puppet image label
+        # Adding pokemon image label
         self.label = QLabel(self)
         self.load_image()  # Load initial image
 
